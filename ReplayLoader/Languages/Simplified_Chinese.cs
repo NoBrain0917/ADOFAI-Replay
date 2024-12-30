@@ -33,7 +33,7 @@
             
             
             levelDiff = "已保存的关卡数据和当前关卡数据不同";
-            deathcamOption = "关卡失败时摄像机选项";
+            deathcamOption = "关卡失败时回放选项";
             changePath = "更改保存路径";
             currentSavePath = "当前保存路径：";
             replaySceneRPCTitle = "选择回放文件";
