@@ -1,4 +1,5 @@
 [[한국어 문서]](https://github.com/NoBrain0917/ADOFAI-Replay)    
+[[中文文档]](https://github.com/NoBrain0917/ADOFAI-Replay/simplified_chinese_doc.md)
 [[v1.0.0 vs v0.0.1]](https://github.com/NoBrain0917/ADOFAI-Replay/blob/master/compare.md)
 
 # ADOFAI replay
