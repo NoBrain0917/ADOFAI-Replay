@@ -59,7 +59,7 @@
 - 日本語（日语）
 - 简体中文
 
-如果你对翻译感兴趣，请翻译 [这个部分](https://github.com/NoBrain0917/ADOFAI-Replay/blob/master/Replay/Languages/English.cs) 及将它提交到一个拉取请求或发送 DM 到 `᲼᲼#8850`
+如果你对翻译感兴趣，请翻译 [这个部分](https://github.com/NoBrain0917/ADOFAI-Replay/blob/master/Replay/Languages/English.cs) 以及将它提交到一个拉取请求或发送私信到 `᲼᲼#8850`
 
 ---
 
